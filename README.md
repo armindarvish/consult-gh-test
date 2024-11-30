@@ -1,2 +1,3 @@
 # consult-gh-test
-This is a test repo
+This is repo for testing consult-gh funcitonalities
+This is a repo to test consult-gh
